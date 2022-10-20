@@ -1,2 +1,2 @@
 # Internal Validation
-One of TRAC's validation methods is termed "internal validation". Internal validation is the process of determining the amount to which the data is valid by looking solely at what is in the file. TRAC goes through the internal validation process by determining plausability and preciseness between columns. 
+One of TRAC's validation methods is termed "internal validation". Internal validation is the process of determining the amount to which the data is valid by looking solely at what is in the file. TRAC goes through the internal validation process by determining plausability and preciseness between columns. It is also important to look at the data itself and the date the file was released to determine if the information is valid.

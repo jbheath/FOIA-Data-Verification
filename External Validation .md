@@ -1,4 +1,4 @@
-## External Validation
+## External Validation (Validation Level 2)
 Using the data tools offered on the TRAC website, users may be inclined to double check the data received in FOIA requests with the data that is on the TRAC website. Although TRAC has a plethora of data, it is possible that not all data will be listed. 
 
 When it comes to where you may want to look, there are a lot of options. The first place to check concerning Department of Homeland Security data would be the Immigration Quick Facts page. https://trac.syr.edu/immigration/quickfacts/ 

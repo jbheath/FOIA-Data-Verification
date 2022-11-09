@@ -17,6 +17,12 @@ Data validation is important in many aspects for the FOIA process. First, users 
 Second, data from the Department of Homeland Security and specifically ICE are often incorrect or out of date. Verifying the data is the best way to ensure that what you receive is correct as to not educate with misinformation.
 
 ## Table of Contents
-If you are unsure where to start in the process of verification, follow along through the sections of this table in order. There are links that will lead you through the content. You are also able to pick on a section if that is what you are looking for. 
+If you are unsure where to start in the process of verification, follow along through the sections of this table in order. There are links that will lead you through the content. You are also able to start by clicking on a section if that is what you are looking for. 
 
-1. 
+1. Essential Materials for Validation
+2. Glossary
+3. Validation Level 1
+4. Internal Validation
+5. External Validation
+6. Appeals Process 
+7. FOIA and GitHub Resources

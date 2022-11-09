@@ -15,3 +15,8 @@ TRAC also runs the FOIA project, a seperate initiave to track FOIA litigation an
 What is the need for verifying data?
 Data validation is important in many aspects for the FOIA process. First, users should verify the data received in FOIA requests to make sure it is current and accurate. The point of making a FOIA request is to gain access to information which was once private, and users hope that this data will be correct. Accuracy is the goal of the FOIA request process and validation ensures that our rights to FOIA access are being fulfilled. 
 Second, data from the Department of Homeland Security and specifically ICE are often incorrect or out of date. Verifying the data is the best way to ensure that what you receive is correct as to not educate with misinformation.
+
+## Table of Contents
+If you are unsure where to start in the process of verification, follow along through the sections of this table in order. There are links that will lead you through the content. You are also able to pick on a section if that is what you are looking for. 
+
+1. 

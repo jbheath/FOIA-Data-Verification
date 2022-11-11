@@ -16,3 +16,7 @@ This glossary will provide definitions for terms that are commonly seen in the F
 -Appeal: An appeal is made regarding FOIA cases when data is either incorrect or the release of records is denied. 
 
 -FOIA Request: A FOIA request is the formal request made on behalf of an individual to ask that data be released for public view.
+
+Go back to view [Essential Materials for Validation](Essential_Materials_for_Validation.md)
+
+Go to the next step of [Validation Level 1](Validation_Level_1.md)

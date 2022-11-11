@@ -8,3 +8,7 @@ Some files may be in the format of an excel file with tabs at the bottom. If ava
 Using these points of information, you should be able to determine whether the current file contains up to date information. You can confirm this by comparing the underlying numbers in the Excel sheet with the numbers in TRAC's Quick Facts tool.
 
 After verifying that the data is up to date, continue to validation level 2.
+
+Go back to the [Glossary](Glossary.md)
+
+Go to the next page to learn about [Internal Validation](Internal_Validation.md)

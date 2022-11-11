@@ -19,10 +19,16 @@ Second, data from the Department of Homeland Security and specifically ICE are o
 ## Table of Contents
 If you are unsure where to start in the process of verification, follow along through the sections of this table in order. There are links that will lead you through the content. You are also able to start by clicking on a section if that is what you are looking for. 
 
-1. Essential Materials for Validation
-2. Glossary
-3. Validation Level 1
-4. Internal Validation
-5. External Validation
-6. Appeals Process 
-7. FOIA and GitHub Resources
+1. [Essential Materials for Validation](Essential_Materials_for_Validation.md)
+
+2. [Glossary](Glossary.md)
+
+3. [Validation Level 1](Validation_Level_1.md)
+
+4. [Internal Validation](Internal_Validation.md)
+
+5. [External Validation](External_Validation.md)
+
+6. [Appeals Process](Appeals_Process.md)
+
+7. [FOIA and GitHub Resources](FOIA_and_GitHub_Resources.md)

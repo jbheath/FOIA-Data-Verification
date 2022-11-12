@@ -3,6 +3,8 @@ To complete level 1 of validation, we need to first confirm that the data receiv
 
 There may also be a date in the file name, especially if it was released by DHS. This can be an easy way to validate that the information is recent.
 
+![Excel file name that contains date of data release](images/filedatevalidation.png)
+
 Some files may be in the format of an excel file with tabs at the bottom. If available, go to the tab named footnotes to find the date for which data was extracted to be released to users. If not available, consider the data on TRAC Quick Facts and in the date stamp to determine plausability.
 
 Using these points of information, you should be able to determine whether the current file contains up to date information. You can confirm this by comparing the underlying numbers in the Excel sheet with the numbers in TRAC's Quick Facts tool.

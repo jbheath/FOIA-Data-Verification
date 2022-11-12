@@ -1,4 +1,4 @@
-# FOIA-Data-Verification
+# FOIA Data Verification
 This repository will contain information for verifying data received from FOIA requests. This information would be most helpful for requests received from the Department of Homeland Security. This guide will also discuss the data tools in the Transactional Records Access Clearinghouse (TRAC) and how those may be useful in the verification process. In addition, a glossary will describe commonly used terms in FOIA documents and how to interpret them.
 
 ## What is FOIA
@@ -17,7 +17,8 @@ Data validation is important in many aspects for the FOIA process. First, users 
 Second, data from the Department of Homeland Security and specifically ICE are often incorrect or out of date. Verifying the data is the best way to ensure that what you receive is correct as to not educate with misinformation.
 
 ## Table of Contents
-If you are unsure where to start in the process of verification, follow along through the sections of this table in order. There are links that will lead you through the content. You are also able to start by clicking on a section if that is what you are looking for. 
+If you are unsure where to start in the process of verification, follow along through the sections of this table in order. There are links that will lead you through the content. You are also able to start by clicking on a section if that is what you are looking for. All files related to validation can be found below or in the [FILES RELATED TO VALIDATION](FILES_RELATED_TO_VALIDATION) folder. 
+
 
 1. [Essential Materials for Validation](Essential_Materials_for_Validation.md)
 

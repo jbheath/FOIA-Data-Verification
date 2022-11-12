@@ -7,6 +7,14 @@ After verifying the date of the data by using methods listed in the Validation L
 
 The final step of internal validation is to ensure that figures in the rows and columns of the document add up to one another. Start by adding any rows and columns up to make sure that the value listed in any total column is correct. If the file has a lot of sections, it may be simpler to do this in parts. If there are multiple tabs, one may wish to compare values across tabs. This is the final step of internal validation.
 
+![An excel table shows the first row highlighted as an example of how to calculate rows to ensure validity.](../Images/internal%20validation%20rows.jpg)
+
+The above table has the first row highlighted. This demonstrates a possible starting place when summing the rows in a table. 
+
+![An excel table shows the end column highlighted as an example of how to calculate columns to ensure validity](../Images/internal%20validation.jpg)
+
+After summing all individual rows, you may move to summing columns. The highlighted row in the table above shows an example of where to add numbers. 
+
 Go to the previous page on [Validation Level 1](Validation_Level_1.md)
 
 Go to the next page about [External Validation](External_Validation%20.md)

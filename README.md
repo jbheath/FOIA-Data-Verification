@@ -20,16 +20,18 @@ Second, data from the Department of Homeland Security and specifically ICE are o
 If you are unsure where to start in the process of verification, follow along through the sections of this table in order. There are links that will lead you through the content. You are also able to start by clicking on a section if that is what you are looking for. All files related to validation can be found below or in the [FILES RELATED TO VALIDATION](FILES_RELATED_TO_VALIDATION) folder. 
 
 
-1. [Essential Materials for Validation](Essential_Materials_for_Validation.md)
+1. [Essential Materials for Validation](FILES_RELATED_TO_VALIDATION/Essential_Materials_for_Validation.md)
 
-2. [Glossary](Glossary.md)
+2. [Glossary](FILES_RELATED_TO_VALIDATION/Glossary.md)
 
-3. [Validation Level 1](Validation_Level_1.md)
+3. [Validation Level 1](FILES_RELATED_TO_VALIDATION/Validation_Level_1.md)
 
-4. [Internal Validation](Internal_Validation.md)
+4. [Internal Validation](FILES_RELATED_TO_VALIDATION/Internal_Validation.md)
 
-5. [External Validation](External_Validation.md)
+5. [External Validation](FILES_RELATED_TO_VALIDATION/External_Validation%20.md)
 
-6. [Appeals Process](Appeals_Process.md)
+6. [Appeals Process](FILES_RELATED_TO_VALIDATION/Appeals_Process.md)
 
-7. [FOIA and GitHub Resources](FOIA_and_GitHub_Resources.md)
+7. [FOIA and GitHub Resources](FILES_RELATED_TO_VALIDATION/FOIA_and_GitHub_Resources.md)
+
+![TRAC which contains the words TRAC and a red trendline arrow](Images/trac.jpeg)

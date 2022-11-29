@@ -18,6 +18,8 @@ This file contains links to various resources for FOIA and GitHub. Each category
 
 - https://foiaproject.org/
 
+- https://www.dhs.gov/foia-contact-information
+
 
 ## GitHub Resources
 
